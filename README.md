@@ -1,2 +1,2 @@
 # Chocoweb
-Repositirio host
+Repositorio host
